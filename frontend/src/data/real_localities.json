@@ -1,0 +1,4202 @@
+{
+    "Chennai": [
+        {
+            "name": "T Nagar",
+            "value": "Locality_343"
+        },
+        {
+            "name": "Adyar",
+            "value": "Locality_164"
+        },
+        {
+            "name": "Anna Nagar",
+            "value": "Locality_479"
+        },
+        {
+            "name": "Velachery",
+            "value": "Locality_95"
+        },
+        {
+            "name": "Mylapore",
+            "value": "Locality_483"
+        },
+        {
+            "name": "Alwarpet",
+            "value": "Locality_316"
+        },
+        {
+            "name": "Besant Nagar",
+            "value": "Locality_259"
+        },
+        {
+            "name": "Nungambakkam",
+            "value": "Locality_228"
+        },
+        {
+            "name": "Tambaram",
+            "value": "Locality_86"
+        },
+        {
+            "name": "Guindy",
+            "value": "Locality_10"
+        },
+        {
+            "name": "Porur",
+            "value": "Locality_23"
+        },
+        {
+            "name": "OMR",
+            "value": "Locality_194"
+        },
+        {
+            "name": "Thiruvanmiyur",
+            "value": "Locality_500"
+        },
+        {
+            "name": "Triplicane",
+            "value": "Locality_430"
+        },
+        {
+            "name": "Egmore",
+            "value": "Locality_151"
+        },
+        {
+            "name": "Medavakkam",
+            "value": "Locality_158"
+        },
+        {
+            "name": "Perambur",
+            "value": "Locality_245"
+        },
+        {
+            "name": "Vandaloor",
+            "value": "Locality_106"
+        },
+        {
+            "name": "Pallikaranai",
+            "value": "Locality_169"
+        },
+        {
+            "name": "Madipakkam",
+            "value": "Locality_17"
+        }
+    ],
+    "Pune": [
+        {
+            "name": "Koregaon Park",
+            "value": "Locality_264"
+        },
+        {
+            "name": "Viman Nagar",
+            "value": "Locality_297"
+        },
+        {
+            "name": "Kalyani Nagar",
+            "value": "Locality_319"
+        },
+        {
+            "name": "Hinjewadi",
+            "value": "Locality_235"
+        },
+        {
+            "name": "Wakad",
+            "value": "Locality_40"
+        },
+        {
+            "name": "Baner",
+            "value": "Locality_115"
+        },
+        {
+            "name": "Kothrud",
+            "value": "Locality_153"
+        },
+        {
+            "name": "Hadapsar",
+            "value": "Locality_85"
+        },
+        {
+            "name": "Kharadi",
+            "value": "Locality_135"
+        },
+        {
+            "name": "Magarpatta City",
+            "value": "Locality_276"
+        },
+        {
+            "name": "Shivajinagar",
+            "value": "Locality_225"
+        },
+        {
+            "name": "Aundh",
+            "value": "Locality_236"
+        },
+        {
+            "name": "Camp",
+            "value": "Locality_237"
+        },
+        {
+            "name": "Deccan Gymkhana",
+            "value": "Locality_498"
+        },
+        {
+            "name": "Bavdhan",
+            "value": "Locality_384"
+        },
+        {
+            "name": "Pimple Saudagar",
+            "value": "Locality_364"
+        },
+        {
+            "name": "Pashan",
+            "value": "Locality_41"
+        },
+        {
+            "name": "Wagholi",
+            "value": "Locality_305"
+        },
+        {
+            "name": "Rasta Peth",
+            "value": "Locality_439"
+        },
+        {
+            "name": "Swargate",
+            "value": "Locality_224"
+        }
+    ],
+    "Ludhiana": [
+        {
+            "name": "Model Town",
+            "value": "Locality_302"
+        },
+        {
+            "name": "Sarabha Nagar",
+            "value": "Locality_145"
+        },
+        {
+            "name": "BRS Nagar",
+            "value": "Locality_477"
+        },
+        {
+            "name": "Dugri",
+            "value": "Locality_16"
+        },
+        {
+            "name": "Civil Lines",
+            "value": "Locality_139"
+        },
+        {
+            "name": "Pakhowal Road",
+            "value": "Locality_349"
+        },
+        {
+            "name": "Ferozepur Road",
+            "value": "Locality_288"
+        },
+        {
+            "name": "GT Road",
+            "value": "Locality_89"
+        },
+        {
+            "name": "Rajguru Nagar",
+            "value": "Locality_412"
+        },
+        {
+            "name": "Haibowal",
+            "value": "Locality_74"
+        },
+        {
+            "name": "Ludhiana Phase 1",
+            "value": "Locality_48"
+        },
+        {
+            "name": "Ludhiana Sector 12",
+            "value": "Locality_473"
+        },
+        {
+            "name": "North Ludhiana Phase 2",
+            "value": "Locality_161"
+        },
+        {
+            "name": "Ludhiana Sector 14",
+            "value": "Locality_129"
+        },
+        {
+            "name": "Ludhiana Heights",
+            "value": "Locality_277"
+        },
+        {
+            "name": "West Ludhiana Heights",
+            "value": "Locality_102"
+        },
+        {
+            "name": "Ludhiana Estate",
+            "value": "Locality_200"
+        },
+        {
+            "name": "Ludhiana Sector 18",
+            "value": "Locality_303"
+        },
+        {
+            "name": "Lower Ludhiana Garden",
+            "value": "Locality_51"
+        },
+        {
+            "name": "Ludhiana Sector 20",
+            "value": "Locality_404"
+        }
+    ],
+    "Jodhpur": [
+        {
+            "name": "Paota",
+            "value": "Locality_277"
+        },
+        {
+            "name": "Ratanada",
+            "value": "Locality_472"
+        },
+        {
+            "name": "Sardarpura",
+            "value": "Locality_235"
+        },
+        {
+            "name": "Shastri Nagar",
+            "value": "Locality_79"
+        },
+        {
+            "name": "Chopasni Road",
+            "value": "Locality_270"
+        },
+        {
+            "name": "Basni",
+            "value": "Locality_2"
+        },
+        {
+            "name": "Pal Road",
+            "value": "Locality_319"
+        },
+        {
+            "name": "Kamla Nehru Nagar",
+            "value": "Locality_249"
+        },
+        {
+            "name": "Mandore Road",
+            "value": "Locality_25"
+        },
+        {
+            "name": "Air Force Area",
+            "value": "Locality_168"
+        },
+        {
+            "name": "Jodhpur Phase 1",
+            "value": "Locality_86"
+        },
+        {
+            "name": "Jodhpur Sector 12",
+            "value": "Locality_441"
+        },
+        {
+            "name": "North Jodhpur Phase 2",
+            "value": "Locality_120"
+        },
+        {
+            "name": "Jodhpur Sector 14",
+            "value": "Locality_172"
+        },
+        {
+            "name": "Jodhpur Heights",
+            "value": "Locality_432"
+        },
+        {
+            "name": "West Jodhpur Heights",
+            "value": "Locality_409"
+        },
+        {
+            "name": "Jodhpur Estate",
+            "value": "Locality_465"
+        },
+        {
+            "name": "Jodhpur Sector 18",
+            "value": "Locality_150"
+        },
+        {
+            "name": "Lower Jodhpur Garden",
+            "value": "Locality_254"
+        },
+        {
+            "name": "Jodhpur Sector 20",
+            "value": "Locality_258"
+        }
+    ],
+    "Jaipur": [
+        {
+            "name": "Malviya Nagar",
+            "value": "Locality_207"
+        },
+        {
+            "name": "Vaishali Nagar",
+            "value": "Locality_147"
+        },
+        {
+            "name": "Mansarovar",
+            "value": "Locality_105"
+        },
+        {
+            "name": "C-Scheme",
+            "value": "Locality_297"
+        },
+        {
+            "name": "Raja Park",
+            "value": "Locality_386"
+        },
+        {
+            "name": "Tonk Road",
+            "value": "Locality_467"
+        },
+        {
+            "name": "Jagatpura",
+            "value": "Locality_435"
+        },
+        {
+            "name": "Sanganer",
+            "value": "Locality_281"
+        },
+        {
+            "name": "Sodala",
+            "value": "Locality_270"
+        },
+        {
+            "name": "Bani Park",
+            "value": "Locality_262"
+        },
+        {
+            "name": "Jhotwara",
+            "value": "Locality_447"
+        },
+        {
+            "name": "Ajmer Road",
+            "value": "Locality_100"
+        },
+        {
+            "name": "Durgapura",
+            "value": "Locality_14"
+        },
+        {
+            "name": "Tilak Nagar",
+            "value": "Locality_275"
+        },
+        {
+            "name": "Shyam Nagar",
+            "value": "Locality_211"
+        },
+        {
+            "name": "Nirman Nagar",
+            "value": "Locality_485"
+        },
+        {
+            "name": "Amer Road",
+            "value": "Locality_148"
+        },
+        {
+            "name": "Mahesh Nagar",
+            "value": "Locality_443"
+        },
+        {
+            "name": "Vidhyadhar Nagar",
+            "value": "Locality_496"
+        },
+        {
+            "name": "Civil Lines",
+            "value": "Locality_139"
+        }
+    ],
+    "Durgapur": [
+        {
+            "name": "City Centre",
+            "value": "Locality_262"
+        },
+        {
+            "name": "Benachity",
+            "value": "Locality_349"
+        },
+        {
+            "name": "Bidhannagar",
+            "value": "Locality_34"
+        },
+        {
+            "name": "Muchipara",
+            "value": "Locality_185"
+        },
+        {
+            "name": "Steel Township",
+            "value": "Locality_124"
+        },
+        {
+            "name": "Bamunara",
+            "value": "Locality_31"
+        },
+        {
+            "name": "Nachan Road",
+            "value": "Locality_83"
+        },
+        {
+            "name": "A-Zone",
+            "value": "Locality_337"
+        },
+        {
+            "name": "B-Zone",
+            "value": "Locality_132"
+        },
+        {
+            "name": "C-Zone",
+            "value": "Locality_304"
+        },
+        {
+            "name": "Durgapur Phase 1",
+            "value": "Locality_424"
+        },
+        {
+            "name": "Durgapur Sector 12",
+            "value": "Locality_198"
+        },
+        {
+            "name": "North Durgapur Phase 2",
+            "value": "Locality_326"
+        },
+        {
+            "name": "Durgapur Sector 14",
+            "value": "Locality_367"
+        },
+        {
+            "name": "Durgapur Heights",
+            "value": "Locality_168"
+        },
+        {
+            "name": "West Durgapur Heights",
+            "value": "Locality_308"
+        },
+        {
+            "name": "Durgapur Estate",
+            "value": "Locality_470"
+        },
+        {
+            "name": "Durgapur Sector 18",
+            "value": "Locality_279"
+        },
+        {
+            "name": "Lower Durgapur Garden",
+            "value": "Locality_131"
+        },
+        {
+            "name": "Durgapur Sector 20",
+            "value": "Locality_459"
+        }
+    ],
+    "Coimbatore": [
+        {
+            "name": "RS Puram",
+            "value": "Locality_257"
+        },
+        {
+            "name": "Gandhipuram",
+            "value": "Locality_141"
+        },
+        {
+            "name": "Peelamedu",
+            "value": "Locality_200"
+        },
+        {
+            "name": "Saravanampatti",
+            "value": "Locality_500"
+        },
+        {
+            "name": "Singanallur",
+            "value": "Locality_242"
+        },
+        {
+            "name": "Race Course",
+            "value": "Locality_391"
+        },
+        {
+            "name": "Thudiyalur",
+            "value": "Locality_318"
+        },
+        {
+            "name": "Ganapathy",
+            "value": "Locality_191"
+        },
+        {
+            "name": "Vadavalli",
+            "value": "Locality_485"
+        },
+        {
+            "name": "Kovaipudur",
+            "value": "Locality_6"
+        },
+        {
+            "name": "Coimbatore Phase 1",
+            "value": "Locality_154"
+        },
+        {
+            "name": "Coimbatore Sector 12",
+            "value": "Locality_248"
+        },
+        {
+            "name": "North Coimbatore Phase 2",
+            "value": "Locality_277"
+        },
+        {
+            "name": "Coimbatore Sector 14",
+            "value": "Locality_412"
+        },
+        {
+            "name": "Coimbatore Heights",
+            "value": "Locality_232"
+        },
+        {
+            "name": "West Coimbatore Heights",
+            "value": "Locality_361"
+        },
+        {
+            "name": "Coimbatore Estate",
+            "value": "Locality_203"
+        },
+        {
+            "name": "Coimbatore Sector 18",
+            "value": "Locality_293"
+        },
+        {
+            "name": "Lower Coimbatore Garden",
+            "value": "Locality_128"
+        },
+        {
+            "name": "Coimbatore Sector 20",
+            "value": "Locality_52"
+        }
+    ],
+    "Bilaspur": [
+        {
+            "name": "Sarkanda",
+            "value": "Locality_15"
+        },
+        {
+            "name": "Torwa",
+            "value": "Locality_36"
+        },
+        {
+            "name": "Uslapur",
+            "value": "Locality_347"
+        },
+        {
+            "name": "Civil Lines",
+            "value": "Locality_360"
+        },
+        {
+            "name": "Mangla",
+            "value": "Locality_8"
+        },
+        {
+            "name": "Bus Stand Road",
+            "value": "Locality_291"
+        },
+        {
+            "name": "Rajkishore Nagar",
+            "value": "Locality_71"
+        },
+        {
+            "name": "Sirgitti",
+            "value": "Locality_458"
+        },
+        {
+            "name": "Tifra",
+            "value": "Locality_290"
+        },
+        {
+            "name": "Telipara",
+            "value": "Locality_115"
+        },
+        {
+            "name": "Bilaspur Phase 1",
+            "value": "Locality_208"
+        },
+        {
+            "name": "Bilaspur Sector 12",
+            "value": "Locality_313"
+        },
+        {
+            "name": "North Bilaspur Phase 2",
+            "value": "Locality_54"
+        },
+        {
+            "name": "Bilaspur Sector 14",
+            "value": "Locality_72"
+        },
+        {
+            "name": "Bilaspur Heights",
+            "value": "Locality_80"
+        },
+        {
+            "name": "West Bilaspur Heights",
+            "value": "Locality_60"
+        },
+        {
+            "name": "Bilaspur Estate",
+            "value": "Locality_18"
+        },
+        {
+            "name": "Bilaspur Sector 18",
+            "value": "Locality_268"
+        },
+        {
+            "name": "Lower Bilaspur Garden",
+            "value": "Locality_187"
+        },
+        {
+            "name": "Bilaspur Sector 20",
+            "value": "Locality_134"
+        }
+    ],
+    "New Delhi": [
+        {
+            "name": "Connaught Place",
+            "value": "Locality_129"
+        },
+        {
+            "name": "Hauz Khas",
+            "value": "Locality_157"
+        },
+        {
+            "name": "Vasant Kunj",
+            "value": "Locality_264"
+        },
+        {
+            "name": "Saket",
+            "value": "Locality_250"
+        },
+        {
+            "name": "Greater Kailash",
+            "value": "Locality_441"
+        },
+        {
+            "name": "Dwarka",
+            "value": "Locality_10"
+        },
+        {
+            "name": "Rohini",
+            "value": "Locality_410"
+        },
+        {
+            "name": "Janakpuri",
+            "value": "Locality_214"
+        },
+        {
+            "name": "Lajpat Nagar",
+            "value": "Locality_384"
+        },
+        {
+            "name": "Karol Bagh",
+            "value": "Locality_330"
+        },
+        {
+            "name": "Pitampura",
+            "value": "Locality_261"
+        },
+        {
+            "name": "Vasant Vihar",
+            "value": "Locality_382"
+        },
+        {
+            "name": "Rajouri Garden",
+            "value": "Locality_291"
+        },
+        {
+            "name": "Def Col",
+            "value": "Locality_111"
+        },
+        {
+            "name": "Malviya Nagar",
+            "value": "Locality_58"
+        },
+        {
+            "name": "South Ex",
+            "value": "Locality_12"
+        },
+        {
+            "name": "Green Park",
+            "value": "Locality_274"
+        },
+        {
+            "name": "Chanakyapuri",
+            "value": "Locality_438"
+        },
+        {
+            "name": "Nehru Place",
+            "value": "Locality_321"
+        },
+        {
+            "name": "Laxmi Nagar",
+            "value": "Locality_64"
+        }
+    ],
+    "Ranchi": [
+        {
+            "name": "Morabadi",
+            "value": "Locality_236"
+        },
+        {
+            "name": "Doranda",
+            "value": "Locality_210"
+        },
+        {
+            "name": "Bariatu",
+            "value": "Locality_128"
+        },
+        {
+            "name": "Hinoo",
+            "value": "Locality_293"
+        },
+        {
+            "name": "Lalpur",
+            "value": "Locality_64"
+        },
+        {
+            "name": "Kanke Road",
+            "value": "Locality_135"
+        },
+        {
+            "name": "Harmu",
+            "value": "Locality_238"
+        },
+        {
+            "name": "Kokar",
+            "value": "Locality_196"
+        },
+        {
+            "name": "Ashok Nagar",
+            "value": "Locality_163"
+        },
+        {
+            "name": "Main Road",
+            "value": "Locality_440"
+        },
+        {
+            "name": "Ranchi Phase 1",
+            "value": "Locality_42"
+        },
+        {
+            "name": "Ranchi Sector 12",
+            "value": "Locality_369"
+        },
+        {
+            "name": "North Ranchi Phase 2",
+            "value": "Locality_285"
+        },
+        {
+            "name": "Ranchi Sector 14",
+            "value": "Locality_83"
+        },
+        {
+            "name": "Ranchi Heights",
+            "value": "Locality_321"
+        },
+        {
+            "name": "West Ranchi Heights",
+            "value": "Locality_1"
+        },
+        {
+            "name": "Ranchi Estate",
+            "value": "Locality_173"
+        },
+        {
+            "name": "Ranchi Sector 18",
+            "value": "Locality_296"
+        },
+        {
+            "name": "Lower Ranchi Garden",
+            "value": "Locality_383"
+        },
+        {
+            "name": "Ranchi Sector 20",
+            "value": "Locality_329"
+        }
+    ],
+    "Warangal": [
+        {
+            "name": "Hanamkonda",
+            "value": "Locality_449"
+        },
+        {
+            "name": "Kazipet",
+            "value": "Locality_473"
+        },
+        {
+            "name": "Subedari",
+            "value": "Locality_357"
+        },
+        {
+            "name": "Waddepally",
+            "value": "Locality_461"
+        },
+        {
+            "name": "Gopalpur",
+            "value": "Locality_312"
+        },
+        {
+            "name": "Bhavani Nagar",
+            "value": "Locality_238"
+        },
+        {
+            "name": "Chintal",
+            "value": "Locality_63"
+        },
+        {
+            "name": "LB Nagar",
+            "value": "Locality_33"
+        },
+        {
+            "name": "Deshaipet",
+            "value": "Locality_187"
+        },
+        {
+            "name": "Rangasaipet",
+            "value": "Locality_56"
+        },
+        {
+            "name": "Balasamudram",
+            "value": "Locality_484"
+        },
+        {
+            "name": "Lashkar Bazaar",
+            "value": "Locality_135"
+        },
+        {
+            "name": "Fort Warangal",
+            "value": "Locality_313"
+        },
+        {
+            "name": "Ramnagar",
+            "value": "Locality_38"
+        },
+        {
+            "name": "Madikonda",
+            "value": "Locality_496"
+        },
+        {
+            "name": "Nakkalagutta",
+            "value": "Locality_393"
+        },
+        {
+            "name": "Hunter Road",
+            "value": "Locality_405"
+        },
+        {
+            "name": "Mulugu Road",
+            "value": "Locality_465"
+        },
+        {
+            "name": "Jangaon Road",
+            "value": "Locality_500"
+        },
+        {
+            "name": "Naimnagar",
+            "value": "Locality_424"
+        }
+    ],
+    "Bangalore": [
+        {
+            "name": "Whitefield",
+            "value": "Locality_87"
+        },
+        {
+            "name": "Koramangala",
+            "value": "Locality_14"
+        },
+        {
+            "name": "HSR Layout",
+            "value": "Locality_243"
+        },
+        {
+            "name": "Indiranagar",
+            "value": "Locality_61"
+        },
+        {
+            "name": "Electronic City",
+            "value": "Locality_162"
+        },
+        {
+            "name": "Jayanagar",
+            "value": "Locality_119"
+        },
+        {
+            "name": "JP Nagar",
+            "value": "Locality_466"
+        },
+        {
+            "name": "BTM Layout",
+            "value": "Locality_23"
+        },
+        {
+            "name": "Marathahalli",
+            "value": "Locality_187"
+        },
+        {
+            "name": "Bellandur",
+            "value": "Locality_334"
+        },
+        {
+            "name": "Malleshwaram",
+            "value": "Locality_249"
+        },
+        {
+            "name": "Rajajinagar",
+            "value": "Locality_210"
+        },
+        {
+            "name": "Yelahanka",
+            "value": "Locality_318"
+        },
+        {
+            "name": "Hebbal",
+            "value": "Locality_342"
+        },
+        {
+            "name": "Sarjapur Road",
+            "value": "Locality_401"
+        },
+        {
+            "name": "Banashankari",
+            "value": "Locality_66"
+        },
+        {
+            "name": "Basavanagudi",
+            "value": "Locality_324"
+        },
+        {
+            "name": "Malleswaram",
+            "value": "Locality_410"
+        },
+        {
+            "name": "KR Puram",
+            "value": "Locality_192"
+        },
+        {
+            "name": "Hennur",
+            "value": "Locality_212"
+        }
+    ],
+    "Nagpur": [
+        {
+            "name": "Dharampeth",
+            "value": "Locality_328"
+        },
+        {
+            "name": "Sadar",
+            "value": "Locality_27"
+        },
+        {
+            "name": "Civil Lines",
+            "value": "Locality_53"
+        },
+        {
+            "name": "Sitabuldi",
+            "value": "Locality_254"
+        },
+        {
+            "name": "Mankapur",
+            "value": "Locality_247"
+        },
+        {
+            "name": "Ramdaspeth",
+            "value": "Locality_360"
+        },
+        {
+            "name": "Laxmi Nagar",
+            "value": "Locality_172"
+        },
+        {
+            "name": "Pratap Nagar",
+            "value": "Locality_43"
+        },
+        {
+            "name": "Trimurti Nagar",
+            "value": "Locality_404"
+        },
+        {
+            "name": "Manewada",
+            "value": "Locality_432"
+        },
+        {
+            "name": "Bajaj Nagar",
+            "value": "Locality_33"
+        },
+        {
+            "name": "Hingna",
+            "value": "Locality_368"
+        },
+        {
+            "name": "Wardha Road",
+            "value": "Locality_496"
+        },
+        {
+            "name": "Nandanvan",
+            "value": "Locality_460"
+        },
+        {
+            "name": "Lakadganj",
+            "value": "Locality_305"
+        },
+        {
+            "name": "Seminary Hills",
+            "value": "Locality_355"
+        },
+        {
+            "name": "Jaripatka",
+            "value": "Locality_289"
+        },
+        {
+            "name": "Congress Nagar",
+            "value": "Locality_493"
+        },
+        {
+            "name": "Khamla",
+            "value": "Locality_364"
+        },
+        {
+            "name": "Shankar Nagar",
+            "value": "Locality_150"
+        }
+    ],
+    "Lucknow": [
+        {
+            "name": "Gomti Nagar",
+            "value": "Locality_498"
+        },
+        {
+            "name": "Hazratganj",
+            "value": "Locality_234"
+        },
+        {
+            "name": "Indira Nagar",
+            "value": "Locality_209"
+        },
+        {
+            "name": "Aliganj",
+            "value": "Locality_19"
+        },
+        {
+            "name": "Mahanagar",
+            "value": "Locality_148"
+        },
+        {
+            "name": "Rajajipuram",
+            "value": "Locality_3"
+        },
+        {
+            "name": "Vikas Nagar",
+            "value": "Locality_287"
+        },
+        {
+            "name": "Aminabad",
+            "value": "Locality_146"
+        },
+        {
+            "name": "Alambagh",
+            "value": "Locality_477"
+        },
+        {
+            "name": "Jankipuram",
+            "value": "Locality_335"
+        },
+        {
+            "name": "Eldeco",
+            "value": "Locality_9"
+        },
+        {
+            "name": "Charbagh",
+            "value": "Locality_259"
+        },
+        {
+            "name": "Aashiana",
+            "value": "Locality_127"
+        },
+        {
+            "name": "Sushant Golf City",
+            "value": "Locality_191"
+        },
+        {
+            "name": "Sahara States",
+            "value": "Locality_311"
+        },
+        {
+            "name": "Chinhat",
+            "value": "Locality_74"
+        },
+        {
+            "name": "Faizabad Road",
+            "value": "Locality_201"
+        },
+        {
+            "name": "Sitapur Road",
+            "value": "Locality_240"
+        },
+        {
+            "name": "Kanpur Road",
+            "value": "Locality_410"
+        },
+        {
+            "name": "Vrindavan Yojana",
+            "value": "Locality_131"
+        }
+    ],
+    "Silchar": [
+        {
+            "name": "Tarapur",
+            "value": "Locality_333"
+        },
+        {
+            "name": "Ambicapatty",
+            "value": "Locality_372"
+        },
+        {
+            "name": "Meherpur",
+            "value": "Locality_447"
+        },
+        {
+            "name": "Rangirkhari",
+            "value": "Locality_177"
+        },
+        {
+            "name": "Udharbond",
+            "value": "Locality_458"
+        },
+        {
+            "name": "Premtala",
+            "value": "Locality_413"
+        },
+        {
+            "name": "Link Road",
+            "value": "Locality_33"
+        },
+        {
+            "name": "Sonai Road",
+            "value": "Locality_94"
+        },
+        {
+            "name": "Kanakpur",
+            "value": "Locality_465"
+        },
+        {
+            "name": "Malugram",
+            "value": "Locality_144"
+        },
+        {
+            "name": "Silchar Phase 1",
+            "value": "Locality_194"
+        },
+        {
+            "name": "Silchar Sector 12",
+            "value": "Locality_40"
+        },
+        {
+            "name": "North Silchar Phase 2",
+            "value": "Locality_388"
+        },
+        {
+            "name": "Silchar Sector 14",
+            "value": "Locality_352"
+        },
+        {
+            "name": "Silchar Heights",
+            "value": "Locality_380"
+        },
+        {
+            "name": "West Silchar Heights",
+            "value": "Locality_316"
+        },
+        {
+            "name": "Silchar Estate",
+            "value": "Locality_125"
+        },
+        {
+            "name": "Silchar Sector 18",
+            "value": "Locality_156"
+        },
+        {
+            "name": "Lower Silchar Garden",
+            "value": "Locality_306"
+        },
+        {
+            "name": "Silchar Sector 20",
+            "value": "Locality_326"
+        }
+    ],
+    "Dehradun": [
+        {
+            "name": "Rajpur Road",
+            "value": "Locality_276"
+        },
+        {
+            "name": "GMS Road",
+            "value": "Locality_16"
+        },
+        {
+            "name": "Sahastradhara Road",
+            "value": "Locality_461"
+        },
+        {
+            "name": "Mussoorie Road",
+            "value": "Locality_137"
+        },
+        {
+            "name": "Race Course",
+            "value": "Locality_401"
+        },
+        {
+            "name": "Clement Town",
+            "value": "Locality_388"
+        },
+        {
+            "name": "Nehru Colony",
+            "value": "Locality_68"
+        },
+        {
+            "name": "Dalanwala",
+            "value": "Locality_127"
+        },
+        {
+            "name": "Ballupur",
+            "value": "Locality_181"
+        },
+        {
+            "name": "Raipur Road",
+            "value": "Locality_145"
+        },
+        {
+            "name": "Dehradun Phase 1",
+            "value": "Locality_321"
+        },
+        {
+            "name": "Dehradun Sector 12",
+            "value": "Locality_459"
+        },
+        {
+            "name": "North Dehradun Phase 2",
+            "value": "Locality_112"
+        },
+        {
+            "name": "Dehradun Sector 14",
+            "value": "Locality_279"
+        },
+        {
+            "name": "Dehradun Heights",
+            "value": "Locality_274"
+        },
+        {
+            "name": "West Dehradun Heights",
+            "value": "Locality_336"
+        },
+        {
+            "name": "Dehradun Estate",
+            "value": "Locality_412"
+        },
+        {
+            "name": "Dehradun Sector 18",
+            "value": "Locality_168"
+        },
+        {
+            "name": "Lower Dehradun Garden",
+            "value": "Locality_339"
+        },
+        {
+            "name": "Dehradun Sector 20",
+            "value": "Locality_164"
+        }
+    ],
+    "Noida": [
+        {
+            "name": "Sector 62",
+            "value": "Locality_282"
+        },
+        {
+            "name": "Sector 18",
+            "value": "Locality_127"
+        },
+        {
+            "name": "Sector 50",
+            "value": "Locality_321"
+        },
+        {
+            "name": "Sector 137",
+            "value": "Locality_499"
+        },
+        {
+            "name": "Sector 44",
+            "value": "Locality_65"
+        },
+        {
+            "name": "Sector 75",
+            "value": "Locality_380"
+        },
+        {
+            "name": "Sector 76",
+            "value": "Locality_440"
+        },
+        {
+            "name": "Sector 104",
+            "value": "Locality_302"
+        },
+        {
+            "name": "Sector 120",
+            "value": "Locality_368"
+        },
+        {
+            "name": "Sector 143",
+            "value": "Locality_251"
+        },
+        {
+            "name": "Sector 15",
+            "value": "Locality_100"
+        },
+        {
+            "name": "Sector 16",
+            "value": "Locality_374"
+        },
+        {
+            "name": "Sector 22",
+            "value": "Locality_229"
+        },
+        {
+            "name": "Sector 25",
+            "value": "Locality_175"
+        },
+        {
+            "name": "Sector 30",
+            "value": "Locality_346"
+        },
+        {
+            "name": "Sector 37",
+            "value": "Locality_239"
+        },
+        {
+            "name": "Sector 41",
+            "value": "Locality_202"
+        },
+        {
+            "name": "Sector 45",
+            "value": "Locality_366"
+        },
+        {
+            "name": "Sector 63",
+            "value": "Locality_416"
+        },
+        {
+            "name": "Sector 78",
+            "value": "Locality_261"
+        }
+    ],
+    "Gaya": [
+        {
+            "name": "Bodh Gaya",
+            "value": "Locality_297"
+        },
+        {
+            "name": "Station Road",
+            "value": "Locality_3"
+        },
+        {
+            "name": "Swarajpuri Road",
+            "value": "Locality_233"
+        },
+        {
+            "name": "GB Road",
+            "value": "Locality_365"
+        },
+        {
+            "name": "Delha",
+            "value": "Locality_370"
+        },
+        {
+            "name": "Rampur",
+            "value": "Locality_381"
+        },
+        {
+            "name": "A P Colony",
+            "value": "Locality_122"
+        },
+        {
+            "name": "Bank Colony",
+            "value": "Locality_193"
+        },
+        {
+            "name": "Tekari Road",
+            "value": "Locality_20"
+        },
+        {
+            "name": "Jethian",
+            "value": "Locality_42"
+        },
+        {
+            "name": "Gaya Phase 1",
+            "value": "Locality_35"
+        },
+        {
+            "name": "Gaya Sector 12",
+            "value": "Locality_111"
+        },
+        {
+            "name": "North Gaya Phase 2",
+            "value": "Locality_120"
+        },
+        {
+            "name": "Gaya Sector 14",
+            "value": "Locality_396"
+        },
+        {
+            "name": "Gaya Heights",
+            "value": "Locality_412"
+        },
+        {
+            "name": "West Gaya Heights",
+            "value": "Locality_211"
+        },
+        {
+            "name": "Gaya Estate",
+            "value": "Locality_83"
+        },
+        {
+            "name": "Gaya Sector 18",
+            "value": "Locality_290"
+        },
+        {
+            "name": "Lower Gaya Garden",
+            "value": "Locality_151"
+        },
+        {
+            "name": "Gaya Sector 20",
+            "value": "Locality_321"
+        }
+    ],
+    "Jamshedpur": [
+        {
+            "name": "Bistupur",
+            "value": "Locality_480"
+        },
+        {
+            "name": "Sakchi",
+            "value": "Locality_102"
+        },
+        {
+            "name": "Kadma",
+            "value": "Locality_365"
+        },
+        {
+            "name": "Sonari",
+            "value": "Locality_407"
+        },
+        {
+            "name": "Telco",
+            "value": "Locality_475"
+        },
+        {
+            "name": "Golmuri",
+            "value": "Locality_62"
+        },
+        {
+            "name": "Mango",
+            "value": "Locality_428"
+        },
+        {
+            "name": "Adityapur",
+            "value": "Locality_363"
+        },
+        {
+            "name": "Baridih",
+            "value": "Locality_167"
+        },
+        {
+            "name": "Sitaramdera",
+            "value": "Locality_499"
+        },
+        {
+            "name": "Jamshedpur Phase 1",
+            "value": "Locality_395"
+        },
+        {
+            "name": "Jamshedpur Sector 12",
+            "value": "Locality_254"
+        },
+        {
+            "name": "North Jamshedpur Phase 2",
+            "value": "Locality_199"
+        },
+        {
+            "name": "Jamshedpur Sector 14",
+            "value": "Locality_441"
+        },
+        {
+            "name": "Jamshedpur Heights",
+            "value": "Locality_478"
+        },
+        {
+            "name": "West Jamshedpur Heights",
+            "value": "Locality_70"
+        },
+        {
+            "name": "Jamshedpur Estate",
+            "value": "Locality_61"
+        },
+        {
+            "name": "Jamshedpur Sector 18",
+            "value": "Locality_488"
+        },
+        {
+            "name": "Lower Jamshedpur Garden",
+            "value": "Locality_214"
+        },
+        {
+            "name": "Jamshedpur Sector 20",
+            "value": "Locality_343"
+        }
+    ],
+    "Ahmedabad": [
+        {
+            "name": "SG Highway",
+            "value": "Locality_382"
+        },
+        {
+            "name": "Bopal",
+            "value": "Locality_258"
+        },
+        {
+            "name": "Satellite",
+            "value": "Locality_132"
+        },
+        {
+            "name": "Vastrapur",
+            "value": "Locality_129"
+        },
+        {
+            "name": "Thaltej",
+            "value": "Locality_418"
+        },
+        {
+            "name": "Prahlad Nagar",
+            "value": "Locality_217"
+        },
+        {
+            "name": "Bodakdev",
+            "value": "Locality_224"
+        },
+        {
+            "name": "Navrangpura",
+            "value": "Locality_256"
+        },
+        {
+            "name": "Gota",
+            "value": "Locality_240"
+        },
+        {
+            "name": "Chandkheda",
+            "value": "Locality_351"
+        },
+        {
+            "name": "Mani Nagar",
+            "value": "Locality_357"
+        },
+        {
+            "name": "Paldi",
+            "value": "Locality_266"
+        },
+        {
+            "name": "Ellisbridge",
+            "value": "Locality_52"
+        },
+        {
+            "name": "Science City Road",
+            "value": "Locality_51"
+        },
+        {
+            "name": "Naranpura",
+            "value": "Locality_416"
+        },
+        {
+            "name": "Vejalpur",
+            "value": "Locality_252"
+        },
+        {
+            "name": "Ghatlodia",
+            "value": "Locality_198"
+        },
+        {
+            "name": "Bapunagar",
+            "value": "Locality_407"
+        },
+        {
+            "name": "Naroda",
+            "value": "Locality_67"
+        },
+        {
+            "name": "Sabarmati",
+            "value": "Locality_128"
+        }
+    ],
+    "Hyderabad": [
+        {
+            "name": "Ameerpet",
+            "value": "Locality_454"
+        },
+        {
+            "name": "Banjara Hills",
+            "value": "Locality_99"
+        },
+        {
+            "name": "Jubilee Hills",
+            "value": "Locality_122"
+        },
+        {
+            "name": "HITEC City",
+            "value": "Locality_190"
+        },
+        {
+            "name": "Gachibowli",
+            "value": "Locality_294"
+        },
+        {
+            "name": "Madhapur",
+            "value": "Locality_204"
+        },
+        {
+            "name": "Kukatpally",
+            "value": "Locality_105"
+        },
+        {
+            "name": "Begumpet",
+            "value": "Locality_238"
+        },
+        {
+            "name": "Kondapur",
+            "value": "Locality_487"
+        },
+        {
+            "name": "Somajiguda",
+            "value": "Locality_164"
+        },
+        {
+            "name": "SR Nagar",
+            "value": "Locality_163"
+        },
+        {
+            "name": "Panjagutta",
+            "value": "Locality_132"
+        },
+        {
+            "name": "Mehdipatnam",
+            "value": "Locality_474"
+        },
+        {
+            "name": "Secunderabad",
+            "value": "Locality_95"
+        },
+        {
+            "name": "LB Nagar",
+            "value": "Locality_157"
+        },
+        {
+            "name": "Uppal",
+            "value": "Locality_88"
+        },
+        {
+            "name": "Miyapur",
+            "value": "Locality_273"
+        },
+        {
+            "name": "Tolichowki",
+            "value": "Locality_158"
+        },
+        {
+            "name": "Dilsukhnagar",
+            "value": "Locality_283"
+        },
+        {
+            "name": "Manikonda",
+            "value": "Locality_106"
+        }
+    ],
+    "Faridabad": [
+        {
+            "name": "Sector 14",
+            "value": "Locality_494"
+        },
+        {
+            "name": "Sector 15",
+            "value": "Locality_30"
+        },
+        {
+            "name": "Sector 21",
+            "value": "Locality_376"
+        },
+        {
+            "name": "Sector 28",
+            "value": "Locality_445"
+        },
+        {
+            "name": "Sector 37",
+            "value": "Locality_264"
+        },
+        {
+            "name": "NIT",
+            "value": "Locality_15"
+        },
+        {
+            "name": "Ballabgarh",
+            "value": "Locality_63"
+        },
+        {
+            "name": "Old Faridabad",
+            "value": "Locality_34"
+        },
+        {
+            "name": "Surajkund",
+            "value": "Locality_314"
+        },
+        {
+            "name": "Green Fields Colony",
+            "value": "Locality_183"
+        },
+        {
+            "name": "Faridabad Phase 1",
+            "value": "Locality_64"
+        },
+        {
+            "name": "Faridabad Sector 12",
+            "value": "Locality_77"
+        },
+        {
+            "name": "North Faridabad Phase 2",
+            "value": "Locality_17"
+        },
+        {
+            "name": "Faridabad Sector 14",
+            "value": "Locality_280"
+        },
+        {
+            "name": "Faridabad Heights",
+            "value": "Locality_127"
+        },
+        {
+            "name": "West Faridabad Heights",
+            "value": "Locality_411"
+        },
+        {
+            "name": "Faridabad Estate",
+            "value": "Locality_98"
+        },
+        {
+            "name": "Faridabad Sector 18",
+            "value": "Locality_364"
+        },
+        {
+            "name": "Lower Faridabad Garden",
+            "value": "Locality_189"
+        },
+        {
+            "name": "Faridabad Sector 20",
+            "value": "Locality_315"
+        }
+    ],
+    "Amritsar": [
+        {
+            "name": "Ranjit Avenue",
+            "value": "Locality_228"
+        },
+        {
+            "name": "Lawrence Road",
+            "value": "Locality_96"
+        },
+        {
+            "name": "Mall Road",
+            "value": "Locality_94"
+        },
+        {
+            "name": "GT Road",
+            "value": "Locality_325"
+        },
+        {
+            "name": "White Avenue",
+            "value": "Locality_83"
+        },
+        {
+            "name": "Ajnala Road",
+            "value": "Locality_106"
+        },
+        {
+            "name": "Majitha Road",
+            "value": "Locality_53"
+        },
+        {
+            "name": "Circular Road",
+            "value": "Locality_419"
+        },
+        {
+            "name": "Green Avenue",
+            "value": "Locality_313"
+        },
+        {
+            "name": "Sultanwind",
+            "value": "Locality_180"
+        },
+        {
+            "name": "Amritsar Phase 1",
+            "value": "Locality_194"
+        },
+        {
+            "name": "Amritsar Sector 12",
+            "value": "Locality_251"
+        },
+        {
+            "name": "North Amritsar Phase 2",
+            "value": "Locality_442"
+        },
+        {
+            "name": "Amritsar Sector 14",
+            "value": "Locality_317"
+        },
+        {
+            "name": "Amritsar Heights",
+            "value": "Locality_211"
+        },
+        {
+            "name": "West Amritsar Heights",
+            "value": "Locality_119"
+        },
+        {
+            "name": "Amritsar Estate",
+            "value": "Locality_304"
+        },
+        {
+            "name": "Amritsar Sector 18",
+            "value": "Locality_177"
+        },
+        {
+            "name": "Lower Amritsar Garden",
+            "value": "Locality_72"
+        },
+        {
+            "name": "Amritsar Sector 20",
+            "value": "Locality_322"
+        }
+    ],
+    "Kolkata": [
+        {
+            "name": "Salt Lake",
+            "value": "Locality_446"
+        },
+        {
+            "name": "New Town",
+            "value": "Locality_10"
+        },
+        {
+            "name": "Rajarhat",
+            "value": "Locality_1"
+        },
+        {
+            "name": "Ballygunge",
+            "value": "Locality_310"
+        },
+        {
+            "name": "Alipore",
+            "value": "Locality_130"
+        },
+        {
+            "name": "Jadavpur",
+            "value": "Locality_289"
+        },
+        {
+            "name": "Gariahat",
+            "value": "Locality_193"
+        },
+        {
+            "name": "Behala",
+            "value": "Locality_247"
+        },
+        {
+            "name": "Tollygunge",
+            "value": "Locality_166"
+        },
+        {
+            "name": "Park Street",
+            "value": "Locality_280"
+        },
+        {
+            "name": "Kasba",
+            "value": "Locality_73"
+        },
+        {
+            "name": "Dum Dum",
+            "value": "Locality_205"
+        },
+        {
+            "name": "Lake Town",
+            "value": "Locality_435"
+        },
+        {
+            "name": "Ruby",
+            "value": "Locality_365"
+        },
+        {
+            "name": "Mukundapur",
+            "value": "Locality_20"
+        },
+        {
+            "name": "Garia",
+            "value": "Locality_470"
+        },
+        {
+            "name": "Naktala",
+            "value": "Locality_311"
+        },
+        {
+            "name": "Phoolbagan",
+            "value": "Locality_80"
+        },
+        {
+            "name": "Kankurgachi",
+            "value": "Locality_113"
+        },
+        {
+            "name": "Bhawanipore",
+            "value": "Locality_59"
+        }
+    ],
+    "Dwarka": [
+        {
+            "name": "Sector 1",
+            "value": "Locality_198"
+        },
+        {
+            "name": "Sector 2",
+            "value": "Locality_407"
+        },
+        {
+            "name": "Sector 3",
+            "value": "Locality_426"
+        },
+        {
+            "name": "Sector 4",
+            "value": "Locality_199"
+        },
+        {
+            "name": "Sector 5",
+            "value": "Locality_309"
+        },
+        {
+            "name": "Sector 6",
+            "value": "Locality_138"
+        },
+        {
+            "name": "Sector 7",
+            "value": "Locality_49"
+        },
+        {
+            "name": "Sector 10",
+            "value": "Locality_493"
+        },
+        {
+            "name": "Sector 12",
+            "value": "Locality_78"
+        },
+        {
+            "name": "Sector 22",
+            "value": "Locality_463"
+        },
+        {
+            "name": "Dwarka Phase 1",
+            "value": "Locality_171"
+        },
+        {
+            "name": "Dwarka Sector 12",
+            "value": "Locality_351"
+        },
+        {
+            "name": "North Dwarka Phase 2",
+            "value": "Locality_103"
+        },
+        {
+            "name": "Dwarka Sector 14",
+            "value": "Locality_203"
+        },
+        {
+            "name": "Dwarka Heights",
+            "value": "Locality_242"
+        },
+        {
+            "name": "West Dwarka Heights",
+            "value": "Locality_160"
+        },
+        {
+            "name": "Dwarka Estate",
+            "value": "Locality_417"
+        },
+        {
+            "name": "Dwarka Sector 18",
+            "value": "Locality_126"
+        },
+        {
+            "name": "Lower Dwarka Garden",
+            "value": "Locality_230"
+        },
+        {
+            "name": "Dwarka Sector 20",
+            "value": "Locality_219"
+        }
+    ],
+    "Vishakhapatnam": [
+        {
+            "name": "Madhurawada",
+            "value": "Locality_375"
+        },
+        {
+            "name": "Gajuwaka",
+            "value": "Locality_282"
+        },
+        {
+            "name": "MVP Colony",
+            "value": "Locality_338"
+        },
+        {
+            "name": "Seethammadhara",
+            "value": "Locality_45"
+        },
+        {
+            "name": "Dwaraka Nagar",
+            "value": "Locality_117"
+        },
+        {
+            "name": "Rushikonda",
+            "value": "Locality_189"
+        },
+        {
+            "name": "Pendurthi",
+            "value": "Locality_448"
+        },
+        {
+            "name": "NAD Junction",
+            "value": "Locality_67"
+        },
+        {
+            "name": "Lawsons Bay",
+            "value": "Locality_438"
+        },
+        {
+            "name": "Beach Road",
+            "value": "Locality_430"
+        },
+        {
+            "name": "Vishakhapatnam Phase 1",
+            "value": "Locality_166"
+        },
+        {
+            "name": "Vishakhapatnam Sector 12",
+            "value": "Locality_173"
+        },
+        {
+            "name": "North Vishakhapatnam Phase 2",
+            "value": "Locality_402"
+        },
+        {
+            "name": "Vishakhapatnam Sector 14",
+            "value": "Locality_444"
+        },
+        {
+            "name": "Vishakhapatnam Heights",
+            "value": "Locality_263"
+        },
+        {
+            "name": "West Vishakhapatnam Heights",
+            "value": "Locality_205"
+        },
+        {
+            "name": "Vishakhapatnam Estate",
+            "value": "Locality_162"
+        },
+        {
+            "name": "Vishakhapatnam Sector 18",
+            "value": "Locality_372"
+        },
+        {
+            "name": "Lower Vishakhapatnam Garden",
+            "value": "Locality_496"
+        },
+        {
+            "name": "Vishakhapatnam Sector 20",
+            "value": "Locality_432"
+        }
+    ],
+    "Bhopal": [
+        {
+            "name": "Arera Colony",
+            "value": "Locality_492"
+        },
+        {
+            "name": "MP Nagar",
+            "value": "Locality_495"
+        },
+        {
+            "name": "Shyamla Hills",
+            "value": "Locality_291"
+        },
+        {
+            "name": "Kolar Road",
+            "value": "Locality_437"
+        },
+        {
+            "name": "Hoshangabad Road",
+            "value": "Locality_316"
+        },
+        {
+            "name": "Bairagarh",
+            "value": "Locality_480"
+        },
+        {
+            "name": "Habibganj",
+            "value": "Locality_246"
+        },
+        {
+            "name": "New Market",
+            "value": "Locality_328"
+        },
+        {
+            "name": "Ayodhya Nagar",
+            "value": "Locality_262"
+        },
+        {
+            "name": "Govindpura",
+            "value": "Locality_303"
+        },
+        {
+            "name": "Bhopal Phase 1",
+            "value": "Locality_462"
+        },
+        {
+            "name": "Bhopal Sector 12",
+            "value": "Locality_398"
+        },
+        {
+            "name": "North Bhopal Phase 2",
+            "value": "Locality_182"
+        },
+        {
+            "name": "Bhopal Sector 14",
+            "value": "Locality_344"
+        },
+        {
+            "name": "Bhopal Heights",
+            "value": "Locality_478"
+        },
+        {
+            "name": "West Bhopal Heights",
+            "value": "Locality_89"
+        },
+        {
+            "name": "Bhopal Estate",
+            "value": "Locality_139"
+        },
+        {
+            "name": "Bhopal Sector 18",
+            "value": "Locality_98"
+        },
+        {
+            "name": "Lower Bhopal Garden",
+            "value": "Locality_214"
+        },
+        {
+            "name": "Bhopal Sector 20",
+            "value": "Locality_190"
+        }
+    ],
+    "Indore": [
+        {
+            "name": "Vijay Nagar",
+            "value": "Locality_74"
+        },
+        {
+            "name": "Palasia",
+            "value": "Locality_218"
+        },
+        {
+            "name": "Old Palasia",
+            "value": "Locality_292"
+        },
+        {
+            "name": "Sapna Sangeeta Road",
+            "value": "Locality_334"
+        },
+        {
+            "name": "AB Road",
+            "value": "Locality_168"
+        },
+        {
+            "name": "Bhawarkuan",
+            "value": "Locality_50"
+        },
+        {
+            "name": "New Palasia",
+            "value": "Locality_188"
+        },
+        {
+            "name": "Silicon City",
+            "value": "Locality_116"
+        },
+        {
+            "name": "Super Corridor",
+            "value": "Locality_443"
+        },
+        {
+            "name": "Mahalaxmi Nagar",
+            "value": "Locality_421"
+        },
+        {
+            "name": "Indore Phase 1",
+            "value": "Locality_216"
+        },
+        {
+            "name": "Indore Sector 12",
+            "value": "Locality_405"
+        },
+        {
+            "name": "North Indore Phase 2",
+            "value": "Locality_434"
+        },
+        {
+            "name": "Indore Sector 14",
+            "value": "Locality_440"
+        },
+        {
+            "name": "Indore Heights",
+            "value": "Locality_223"
+        },
+        {
+            "name": "West Indore Heights",
+            "value": "Locality_47"
+        },
+        {
+            "name": "Indore Estate",
+            "value": "Locality_398"
+        },
+        {
+            "name": "Indore Sector 18",
+            "value": "Locality_73"
+        },
+        {
+            "name": "Lower Indore Garden",
+            "value": "Locality_5"
+        },
+        {
+            "name": "Indore Sector 20",
+            "value": "Locality_478"
+        }
+    ],
+    "Haridwar": [
+        {
+            "name": "Jwalapur",
+            "value": "Locality_351"
+        },
+        {
+            "name": "Kankhal",
+            "value": "Locality_33"
+        },
+        {
+            "name": "Ranipur",
+            "value": "Locality_146"
+        },
+        {
+            "name": "Bhagwanpur",
+            "value": "Locality_219"
+        },
+        {
+            "name": "Shivalik Nagar",
+            "value": "Locality_339"
+        },
+        {
+            "name": "Bahadrabad",
+            "value": "Locality_187"
+        },
+        {
+            "name": "Sidcul",
+            "value": "Locality_134"
+        },
+        {
+            "name": "Motichur",
+            "value": "Locality_171"
+        },
+        {
+            "name": "Roshnabad",
+            "value": "Locality_224"
+        },
+        {
+            "name": "Piran Kaliyar",
+            "value": "Locality_117"
+        },
+        {
+            "name": "Haridwar Phase 1",
+            "value": "Locality_68"
+        },
+        {
+            "name": "Haridwar Sector 12",
+            "value": "Locality_75"
+        },
+        {
+            "name": "North Haridwar Phase 2",
+            "value": "Locality_9"
+        },
+        {
+            "name": "Haridwar Sector 14",
+            "value": "Locality_206"
+        },
+        {
+            "name": "Haridwar Heights",
+            "value": "Locality_494"
+        },
+        {
+            "name": "West Haridwar Heights",
+            "value": "Locality_242"
+        },
+        {
+            "name": "Haridwar Estate",
+            "value": "Locality_452"
+        },
+        {
+            "name": "Haridwar Sector 18",
+            "value": "Locality_376"
+        },
+        {
+            "name": "Lower Haridwar Garden",
+            "value": "Locality_15"
+        },
+        {
+            "name": "Haridwar Sector 20",
+            "value": "Locality_356"
+        }
+    ],
+    "Mysore": [
+        {
+            "name": "Saraswathipuram",
+            "value": "Locality_41"
+        },
+        {
+            "name": "Gokulam",
+            "value": "Locality_117"
+        },
+        {
+            "name": "Vijayanagar",
+            "value": "Locality_238"
+        },
+        {
+            "name": "Kuvempunagar",
+            "value": "Locality_397"
+        },
+        {
+            "name": "Jayalakshmipuram",
+            "value": "Locality_297"
+        },
+        {
+            "name": "Chamundipuram",
+            "value": "Locality_22"
+        },
+        {
+            "name": "Hebbal",
+            "value": "Locality_94"
+        },
+        {
+            "name": "Srirampura",
+            "value": "Locality_486"
+        },
+        {
+            "name": "Lakshmipuram",
+            "value": "Locality_350"
+        },
+        {
+            "name": "Nazarbad",
+            "value": "Locality_171"
+        },
+        {
+            "name": "Mysore Phase 1",
+            "value": "Locality_408"
+        },
+        {
+            "name": "Mysore Sector 12",
+            "value": "Locality_280"
+        },
+        {
+            "name": "North Mysore Phase 2",
+            "value": "Locality_278"
+        },
+        {
+            "name": "Mysore Sector 14",
+            "value": "Locality_271"
+        },
+        {
+            "name": "Mysore Heights",
+            "value": "Locality_311"
+        },
+        {
+            "name": "West Mysore Heights",
+            "value": "Locality_161"
+        },
+        {
+            "name": "Mysore Estate",
+            "value": "Locality_379"
+        },
+        {
+            "name": "Mysore Sector 18",
+            "value": "Locality_384"
+        },
+        {
+            "name": "Lower Mysore Garden",
+            "value": "Locality_320"
+        },
+        {
+            "name": "Mysore Sector 20",
+            "value": "Locality_375"
+        }
+    ],
+    "Patna": [
+        {
+            "name": "Boring Road",
+            "value": "Locality_94"
+        },
+        {
+            "name": "Kankarbagh",
+            "value": "Locality_63"
+        },
+        {
+            "name": "Rajendra Nagar",
+            "value": "Locality_165"
+        },
+        {
+            "name": "Patliputra Colony",
+            "value": "Locality_32"
+        },
+        {
+            "name": "Bailey Road",
+            "value": "Locality_169"
+        },
+        {
+            "name": "Danapur",
+            "value": "Locality_345"
+        },
+        {
+            "name": "Phulwari Sharif",
+            "value": "Locality_452"
+        },
+        {
+            "name": "Anisabad",
+            "value": "Locality_272"
+        },
+        {
+            "name": "Ashok Rajpath",
+            "value": "Locality_420"
+        },
+        {
+            "name": "Gardanibagh",
+            "value": "Locality_185"
+        },
+        {
+            "name": "Patna Phase 1",
+            "value": "Locality_455"
+        },
+        {
+            "name": "Patna Sector 12",
+            "value": "Locality_5"
+        },
+        {
+            "name": "North Patna Phase 2",
+            "value": "Locality_8"
+        },
+        {
+            "name": "Patna Sector 14",
+            "value": "Locality_234"
+        },
+        {
+            "name": "Patna Heights",
+            "value": "Locality_427"
+        },
+        {
+            "name": "West Patna Heights",
+            "value": "Locality_131"
+        },
+        {
+            "name": "Patna Estate",
+            "value": "Locality_98"
+        },
+        {
+            "name": "Patna Sector 18",
+            "value": "Locality_178"
+        },
+        {
+            "name": "Lower Patna Garden",
+            "value": "Locality_194"
+        },
+        {
+            "name": "Patna Sector 20",
+            "value": "Locality_158"
+        }
+    ],
+    "Raipur": [
+        {
+            "name": "Shankar Nagar",
+            "value": "Locality_100"
+        },
+        {
+            "name": "Telibandha",
+            "value": "Locality_430"
+        },
+        {
+            "name": "Devendra Nagar",
+            "value": "Locality_490"
+        },
+        {
+            "name": "Civil Lines",
+            "value": "Locality_350"
+        },
+        {
+            "name": "Tatibandh",
+            "value": "Locality_346"
+        },
+        {
+            "name": "Amanaka",
+            "value": "Locality_145"
+        },
+        {
+            "name": "Mowa",
+            "value": "Locality_465"
+        },
+        {
+            "name": "Fafadih",
+            "value": "Locality_105"
+        },
+        {
+            "name": "Pandri",
+            "value": "Locality_218"
+        },
+        {
+            "name": "Byron Bazaar",
+            "value": "Locality_475"
+        },
+        {
+            "name": "Raipur Phase 1",
+            "value": "Locality_71"
+        },
+        {
+            "name": "Raipur Sector 12",
+            "value": "Locality_22"
+        },
+        {
+            "name": "North Raipur Phase 2",
+            "value": "Locality_235"
+        },
+        {
+            "name": "Raipur Sector 14",
+            "value": "Locality_498"
+        },
+        {
+            "name": "Raipur Heights",
+            "value": "Locality_10"
+        },
+        {
+            "name": "West Raipur Heights",
+            "value": "Locality_313"
+        },
+        {
+            "name": "Raipur Estate",
+            "value": "Locality_52"
+        },
+        {
+            "name": "Raipur Sector 18",
+            "value": "Locality_103"
+        },
+        {
+            "name": "Lower Raipur Garden",
+            "value": "Locality_54"
+        },
+        {
+            "name": "Raipur Sector 20",
+            "value": "Locality_390"
+        }
+    ],
+    "Vijayawada": [
+        {
+            "name": "Benz Circle",
+            "value": "Locality_203"
+        },
+        {
+            "name": "Moghalrajpuram",
+            "value": "Locality_149"
+        },
+        {
+            "name": "Labbipet",
+            "value": "Locality_107"
+        },
+        {
+            "name": "Governorpet",
+            "value": "Locality_393"
+        },
+        {
+            "name": "Patamata",
+            "value": "Locality_59"
+        },
+        {
+            "name": "Auto Nagar",
+            "value": "Locality_46"
+        },
+        {
+            "name": "Gandhinagar",
+            "value": "Locality_487"
+        },
+        {
+            "name": "Kanuru",
+            "value": "Locality_451"
+        },
+        {
+            "name": "Payakapuram",
+            "value": "Locality_134"
+        },
+        {
+            "name": "Ajit Singh Nagar",
+            "value": "Locality_159"
+        },
+        {
+            "name": "Vijayawada Phase 1",
+            "value": "Locality_234"
+        },
+        {
+            "name": "Vijayawada Sector 12",
+            "value": "Locality_273"
+        },
+        {
+            "name": "North Vijayawada Phase 2",
+            "value": "Locality_123"
+        },
+        {
+            "name": "Vijayawada Sector 14",
+            "value": "Locality_233"
+        },
+        {
+            "name": "Vijayawada Heights",
+            "value": "Locality_180"
+        },
+        {
+            "name": "West Vijayawada Heights",
+            "value": "Locality_301"
+        },
+        {
+            "name": "Vijayawada Estate",
+            "value": "Locality_114"
+        },
+        {
+            "name": "Vijayawada Sector 18",
+            "value": "Locality_478"
+        },
+        {
+            "name": "Lower Vijayawada Garden",
+            "value": "Locality_313"
+        },
+        {
+            "name": "Vijayawada Sector 20",
+            "value": "Locality_74"
+        }
+    ],
+    "Trivandrum": [
+        {
+            "name": "Kowdiar",
+            "value": "Locality_113"
+        },
+        {
+            "name": "Pattom",
+            "value": "Locality_164"
+        },
+        {
+            "name": "Vazhuthacaud",
+            "value": "Locality_177"
+        },
+        {
+            "name": "Kesavadasapuram",
+            "value": "Locality_115"
+        },
+        {
+            "name": "Kazhakkoottam",
+            "value": "Locality_122"
+        },
+        {
+            "name": "Sreekaryam",
+            "value": "Locality_265"
+        },
+        {
+            "name": "Vellayambalam",
+            "value": "Locality_318"
+        },
+        {
+            "name": "Thycaud",
+            "value": "Locality_469"
+        },
+        {
+            "name": "Technopark",
+            "value": "Locality_159"
+        },
+        {
+            "name": "Mannanthala",
+            "value": "Locality_313"
+        },
+        {
+            "name": "Trivandrum Phase 1",
+            "value": "Locality_162"
+        },
+        {
+            "name": "Trivandrum Sector 12",
+            "value": "Locality_171"
+        },
+        {
+            "name": "North Trivandrum Phase 2",
+            "value": "Locality_258"
+        },
+        {
+            "name": "Trivandrum Sector 14",
+            "value": "Locality_277"
+        },
+        {
+            "name": "Trivandrum Heights",
+            "value": "Locality_385"
+        },
+        {
+            "name": "West Trivandrum Heights",
+            "value": "Locality_1"
+        },
+        {
+            "name": "Trivandrum Estate",
+            "value": "Locality_87"
+        },
+        {
+            "name": "Trivandrum Sector 18",
+            "value": "Locality_316"
+        },
+        {
+            "name": "Lower Trivandrum Garden",
+            "value": "Locality_174"
+        },
+        {
+            "name": "Trivandrum Sector 20",
+            "value": "Locality_88"
+        }
+    ],
+    "Kochi": [
+        {
+            "name": "Edappally",
+            "value": "Locality_140"
+        },
+        {
+            "name": "Kakkanad",
+            "value": "Locality_335"
+        },
+        {
+            "name": "Palarivattom",
+            "value": "Locality_8"
+        },
+        {
+            "name": "Vyttila",
+            "value": "Locality_472"
+        },
+        {
+            "name": "Aluva",
+            "value": "Locality_123"
+        },
+        {
+            "name": "Marine Drive",
+            "value": "Locality_190"
+        },
+        {
+            "name": "Panampilly Nagar",
+            "value": "Locality_291"
+        },
+        {
+            "name": "Kaloor",
+            "value": "Locality_141"
+        },
+        {
+            "name": "Thripunithura",
+            "value": "Locality_459"
+        },
+        {
+            "name": "Fort Kochi",
+            "value": "Locality_423"
+        },
+        {
+            "name": "Kochi Phase 1",
+            "value": "Locality_91"
+        },
+        {
+            "name": "Kochi Sector 12",
+            "value": "Locality_98"
+        },
+        {
+            "name": "North Kochi Phase 2",
+            "value": "Locality_101"
+        },
+        {
+            "name": "Kochi Sector 14",
+            "value": "Locality_452"
+        },
+        {
+            "name": "Kochi Heights",
+            "value": "Locality_97"
+        },
+        {
+            "name": "West Kochi Heights",
+            "value": "Locality_397"
+        },
+        {
+            "name": "Kochi Estate",
+            "value": "Locality_156"
+        },
+        {
+            "name": "Kochi Sector 18",
+            "value": "Locality_159"
+        },
+        {
+            "name": "Lower Kochi Garden",
+            "value": "Locality_346"
+        },
+        {
+            "name": "Kochi Sector 20",
+            "value": "Locality_43"
+        }
+    ],
+    "Surat": [
+        {
+            "name": "Vesu",
+            "value": "Locality_193"
+        },
+        {
+            "name": "Adajan",
+            "value": "Locality_4"
+        },
+        {
+            "name": "Piplod",
+            "value": "Locality_9"
+        },
+        {
+            "name": "Althan",
+            "value": "Locality_26"
+        },
+        {
+            "name": "Pal",
+            "value": "Locality_120"
+        },
+        {
+            "name": "Ghod Dod Road",
+            "value": "Locality_204"
+        },
+        {
+            "name": "City Light",
+            "value": "Locality_16"
+        },
+        {
+            "name": "Katargam",
+            "value": "Locality_60"
+        },
+        {
+            "name": "Varachha",
+            "value": "Locality_183"
+        },
+        {
+            "name": "Athwa",
+            "value": "Locality_34"
+        },
+        {
+            "name": "Surat Phase 1",
+            "value": "Locality_192"
+        },
+        {
+            "name": "Surat Sector 12",
+            "value": "Locality_435"
+        },
+        {
+            "name": "North Surat Phase 2",
+            "value": "Locality_379"
+        },
+        {
+            "name": "Surat Sector 14",
+            "value": "Locality_22"
+        },
+        {
+            "name": "Surat Heights",
+            "value": "Locality_225"
+        },
+        {
+            "name": "West Surat Heights",
+            "value": "Locality_88"
+        },
+        {
+            "name": "Surat Estate",
+            "value": "Locality_473"
+        },
+        {
+            "name": "Surat Sector 18",
+            "value": "Locality_382"
+        },
+        {
+            "name": "Lower Surat Garden",
+            "value": "Locality_5"
+        },
+        {
+            "name": "Surat Sector 20",
+            "value": "Locality_365"
+        }
+    ],
+    "Gurgaon": [
+        {
+            "name": "DLF Phase 1",
+            "value": "Locality_11"
+        },
+        {
+            "name": "DLF Phase 2",
+            "value": "Locality_63"
+        },
+        {
+            "name": "Sohna Road",
+            "value": "Locality_281"
+        },
+        {
+            "name": "Golf Course Road",
+            "value": "Locality_125"
+        },
+        {
+            "name": "Sector 49",
+            "value": "Locality_247"
+        },
+        {
+            "name": "MG Road",
+            "value": "Locality_360"
+        },
+        {
+            "name": "Sector 56",
+            "value": "Locality_441"
+        },
+        {
+            "name": "Sector 57",
+            "value": "Locality_438"
+        },
+        {
+            "name": "Sector 82",
+            "value": "Locality_250"
+        },
+        {
+            "name": "Palam Vihar",
+            "value": "Locality_456"
+        },
+        {
+            "name": "Gurgaon Phase 1",
+            "value": "Locality_485"
+        },
+        {
+            "name": "Gurgaon Sector 12",
+            "value": "Locality_320"
+        },
+        {
+            "name": "North Gurgaon Phase 2",
+            "value": "Locality_200"
+        },
+        {
+            "name": "Gurgaon Sector 14",
+            "value": "Locality_3"
+        },
+        {
+            "name": "Gurgaon Heights",
+            "value": "Locality_326"
+        },
+        {
+            "name": "West Gurgaon Heights",
+            "value": "Locality_214"
+        },
+        {
+            "name": "Gurgaon Estate",
+            "value": "Locality_405"
+        },
+        {
+            "name": "Gurgaon Sector 18",
+            "value": "Locality_159"
+        },
+        {
+            "name": "Lower Gurgaon Garden",
+            "value": "Locality_301"
+        },
+        {
+            "name": "Gurgaon Sector 20",
+            "value": "Locality_103"
+        }
+    ],
+    "Mangalore": [
+        {
+            "name": "Kadri",
+            "value": "Locality_306"
+        },
+        {
+            "name": "Bejai",
+            "value": "Locality_427"
+        },
+        {
+            "name": "Falnir",
+            "value": "Locality_401"
+        },
+        {
+            "name": "Hampankatta",
+            "value": "Locality_420"
+        },
+        {
+            "name": "Kankanady",
+            "value": "Locality_41"
+        },
+        {
+            "name": "Bendoorwell",
+            "value": "Locality_232"
+        },
+        {
+            "name": "Mannagudda",
+            "value": "Locality_410"
+        },
+        {
+            "name": "Attavar",
+            "value": "Locality_69"
+        },
+        {
+            "name": "Derebail",
+            "value": "Locality_454"
+        },
+        {
+            "name": "Kottara",
+            "value": "Locality_242"
+        },
+        {
+            "name": "Mangalore Phase 1",
+            "value": "Locality_169"
+        },
+        {
+            "name": "Mangalore Sector 12",
+            "value": "Locality_180"
+        },
+        {
+            "name": "North Mangalore Phase 2",
+            "value": "Locality_469"
+        },
+        {
+            "name": "Mangalore Sector 14",
+            "value": "Locality_246"
+        },
+        {
+            "name": "Mangalore Heights",
+            "value": "Locality_271"
+        },
+        {
+            "name": "West Mangalore Heights",
+            "value": "Locality_75"
+        },
+        {
+            "name": "Mangalore Estate",
+            "value": "Locality_299"
+        },
+        {
+            "name": "Mangalore Sector 18",
+            "value": "Locality_237"
+        },
+        {
+            "name": "Lower Mangalore Garden",
+            "value": "Locality_397"
+        },
+        {
+            "name": "Mangalore Sector 20",
+            "value": "Locality_29"
+        }
+    ],
+    "Cuttack": [
+        {
+            "name": "New Cuttack Nagar",
+            "value": "Locality_350"
+        },
+        {
+            "name": "Cuttack Sector 2",
+            "value": "Locality_307"
+        },
+        {
+            "name": "Cuttack Vihar",
+            "value": "Locality_403"
+        },
+        {
+            "name": "South Cuttack Vihar",
+            "value": "Locality_69"
+        },
+        {
+            "name": "Cuttack Enclave",
+            "value": "Locality_171"
+        },
+        {
+            "name": "Cuttack Sector 6",
+            "value": "Locality_472"
+        },
+        {
+            "name": "Central Cuttack Extension",
+            "value": "Locality_367"
+        },
+        {
+            "name": "Cuttack Sector 8",
+            "value": "Locality_321"
+        },
+        {
+            "name": "Cuttack Colony",
+            "value": "Locality_8"
+        },
+        {
+            "name": "Greater Cuttack Colony",
+            "value": "Locality_453"
+        },
+        {
+            "name": "Cuttack Phase 1",
+            "value": "Locality_430"
+        },
+        {
+            "name": "Cuttack Sector 12",
+            "value": "Locality_213"
+        },
+        {
+            "name": "North Cuttack Phase 2",
+            "value": "Locality_406"
+        },
+        {
+            "name": "Cuttack Sector 14",
+            "value": "Locality_482"
+        },
+        {
+            "name": "Cuttack Heights",
+            "value": "Locality_198"
+        },
+        {
+            "name": "West Cuttack Heights",
+            "value": "Locality_140"
+        },
+        {
+            "name": "Cuttack Estate",
+            "value": "Locality_49"
+        },
+        {
+            "name": "Cuttack Sector 18",
+            "value": "Locality_280"
+        },
+        {
+            "name": "Lower Cuttack Garden",
+            "value": "Locality_203"
+        },
+        {
+            "name": "Cuttack Sector 20",
+            "value": "Locality_107"
+        }
+    ],
+    "Bhubaneswar": [
+        {
+            "name": "New Bhubaneswar Nagar",
+            "value": "Locality_376"
+        },
+        {
+            "name": "Bhubaneswar Sector 2",
+            "value": "Locality_487"
+        },
+        {
+            "name": "Bhubaneswar Vihar",
+            "value": "Locality_119"
+        },
+        {
+            "name": "South Bhubaneswar Vihar",
+            "value": "Locality_55"
+        },
+        {
+            "name": "Bhubaneswar Enclave",
+            "value": "Locality_257"
+        },
+        {
+            "name": "Bhubaneswar Sector 6",
+            "value": "Locality_111"
+        },
+        {
+            "name": "Central Bhubaneswar Extension",
+            "value": "Locality_282"
+        },
+        {
+            "name": "Bhubaneswar Sector 8",
+            "value": "Locality_38"
+        },
+        {
+            "name": "Bhubaneswar Colony",
+            "value": "Locality_172"
+        },
+        {
+            "name": "Greater Bhubaneswar Colony",
+            "value": "Locality_247"
+        },
+        {
+            "name": "Bhubaneswar Phase 1",
+            "value": "Locality_405"
+        },
+        {
+            "name": "Bhubaneswar Sector 12",
+            "value": "Locality_194"
+        },
+        {
+            "name": "North Bhubaneswar Phase 2",
+            "value": "Locality_144"
+        },
+        {
+            "name": "Bhubaneswar Sector 14",
+            "value": "Locality_28"
+        },
+        {
+            "name": "Bhubaneswar Heights",
+            "value": "Locality_394"
+        },
+        {
+            "name": "West Bhubaneswar Heights",
+            "value": "Locality_158"
+        },
+        {
+            "name": "Bhubaneswar Estate",
+            "value": "Locality_435"
+        },
+        {
+            "name": "Bhubaneswar Sector 18",
+            "value": "Locality_444"
+        },
+        {
+            "name": "Lower Bhubaneswar Garden",
+            "value": "Locality_134"
+        },
+        {
+            "name": "Bhubaneswar Sector 20",
+            "value": "Locality_373"
+        }
+    ],
+    "Guwahati": [
+        {
+            "name": "New Guwahati Nagar",
+            "value": "Locality_368"
+        },
+        {
+            "name": "Guwahati Sector 2",
+            "value": "Locality_194"
+        },
+        {
+            "name": "Guwahati Vihar",
+            "value": "Locality_388"
+        },
+        {
+            "name": "South Guwahati Vihar",
+            "value": "Locality_476"
+        },
+        {
+            "name": "Guwahati Enclave",
+            "value": "Locality_234"
+        },
+        {
+            "name": "Guwahati Sector 6",
+            "value": "Locality_290"
+        },
+        {
+            "name": "Central Guwahati Extension",
+            "value": "Locality_118"
+        },
+        {
+            "name": "Guwahati Sector 8",
+            "value": "Locality_389"
+        },
+        {
+            "name": "Guwahati Colony",
+            "value": "Locality_49"
+        },
+        {
+            "name": "Greater Guwahati Colony",
+            "value": "Locality_422"
+        },
+        {
+            "name": "Guwahati Phase 1",
+            "value": "Locality_347"
+        },
+        {
+            "name": "Guwahati Sector 12",
+            "value": "Locality_449"
+        },
+        {
+            "name": "North Guwahati Phase 2",
+            "value": "Locality_129"
+        },
+        {
+            "name": "Guwahati Sector 14",
+            "value": "Locality_401"
+        },
+        {
+            "name": "Guwahati Heights",
+            "value": "Locality_407"
+        },
+        {
+            "name": "West Guwahati Heights",
+            "value": "Locality_261"
+        },
+        {
+            "name": "Guwahati Estate",
+            "value": "Locality_374"
+        },
+        {
+            "name": "Guwahati Sector 18",
+            "value": "Locality_35"
+        },
+        {
+            "name": "Lower Guwahati Garden",
+            "value": "Locality_187"
+        },
+        {
+            "name": "Guwahati Sector 20",
+            "value": "Locality_170"
+        }
+    ],
+    "Mumbai": [
+        {
+            "name": "Andheri West",
+            "value": "Locality_353"
+        },
+        {
+            "name": "Bandra West",
+            "value": "Locality_498"
+        },
+        {
+            "name": "Juhu",
+            "value": "Locality_149"
+        },
+        {
+            "name": "Powai",
+            "value": "Locality_254"
+        },
+        {
+            "name": "Goregaon East",
+            "value": "Locality_264"
+        },
+        {
+            "name": "Malad West",
+            "value": "Locality_168"
+        },
+        {
+            "name": "Kandivali East",
+            "value": "Locality_87"
+        },
+        {
+            "name": "Borivali West",
+            "value": "Locality_372"
+        },
+        {
+            "name": "Colaba",
+            "value": "Locality_114"
+        },
+        {
+            "name": "Dadar",
+            "value": "Locality_266"
+        },
+        {
+            "name": "Worli",
+            "value": "Locality_253"
+        },
+        {
+            "name": "Lower Parel",
+            "value": "Locality_174"
+        },
+        {
+            "name": "Prabhadevi",
+            "value": "Locality_468"
+        },
+        {
+            "name": "Chembur",
+            "value": "Locality_470"
+        },
+        {
+            "name": "Navi Mumbai",
+            "value": "Locality_316"
+        },
+        {
+            "name": "Thane",
+            "value": "Locality_381"
+        },
+        {
+            "name": "Vile Parle",
+            "value": "Locality_224"
+        },
+        {
+            "name": "Santacruz",
+            "value": "Locality_245"
+        },
+        {
+            "name": "Mulund",
+            "value": "Locality_94"
+        },
+        {
+            "name": "Ghatkopar",
+            "value": "Locality_46"
+        }
+    ],
+    "Hubli": [
+        {
+            "name": "Vidyanagar",
+            "value": "Locality_9020"
+        },
+        {
+            "name": "Keshwapur",
+            "value": "Locality_9021"
+        },
+        {
+            "name": "Gokul Road",
+            "value": "Locality_9022"
+        },
+        {
+            "name": "Navanagar",
+            "value": "Locality_9023"
+        },
+        {
+            "name": "Deshpande Nagar",
+            "value": "Locality_9024"
+        },
+        {
+            "name": "Lingarajnagar",
+            "value": "Locality_9025"
+        },
+        {
+            "name": "Shirur Park",
+            "value": "Locality_9026"
+        },
+        {
+            "name": "Akshay Colony",
+            "value": "Locality_9027"
+        },
+        {
+            "name": "Malmaddi",
+            "value": "Locality_9028"
+        },
+        {
+            "name": "Old Hubli",
+            "value": "Locality_9029"
+        }
+    ],
+    "Thane": [
+        {
+            "name": "Ghodbunder Road",
+            "value": "Locality_9070"
+        },
+        {
+            "name": "Majiwada",
+            "value": "Locality_9071"
+        },
+        {
+            "name": "Pokhran Road",
+            "value": "Locality_9072"
+        },
+        {
+            "name": "Manpada",
+            "value": "Locality_9073"
+        },
+        {
+            "name": "Vartak Nagar",
+            "value": "Locality_9074"
+        },
+        {
+            "name": "Naupada",
+            "value": "Locality_9075"
+        },
+        {
+            "name": "Wagle Estate",
+            "value": "Locality_9076"
+        },
+        {
+            "name": "Panchpakhadi",
+            "value": "Locality_9077"
+        },
+        {
+            "name": "Balkum",
+            "value": "Locality_9078"
+        },
+        {
+            "name": "Hiranandani Estate",
+            "value": "Locality_9079"
+        }
+    ],
+    "Madurai": [
+        {
+            "name": "Anna Nagar",
+            "value": "Locality_9100"
+        },
+        {
+            "name": "KK Nagar",
+            "value": "Locality_9101"
+        },
+        {
+            "name": "Mattuthavani",
+            "value": "Locality_9102"
+        },
+        {
+            "name": "Thirunagar",
+            "value": "Locality_9103"
+        },
+        {
+            "name": "Villapuram",
+            "value": "Locality_9104"
+        },
+        {
+            "name": "Goripalayam",
+            "value": "Locality_9105"
+        },
+        {
+            "name": "Tallakulam",
+            "value": "Locality_9106"
+        },
+        {
+            "name": "Palanganatham",
+            "value": "Locality_9107"
+        },
+        {
+            "name": "SS Colony",
+            "value": "Locality_9108"
+        },
+        {
+            "name": "Narimedu",
+            "value": "Locality_9109"
+        }
+    ],
+    "Salem": [
+        {
+            "name": "Fairlands",
+            "value": "Locality_9110"
+        },
+        {
+            "name": "Shevapet",
+            "value": "Locality_9111"
+        },
+        {
+            "name": "Hasthampatti",
+            "value": "Locality_9112"
+        },
+        {
+            "name": "Suramangalam",
+            "value": "Locality_9113"
+        },
+        {
+            "name": "Ammapet",
+            "value": "Locality_9114"
+        },
+        {
+            "name": "Alagapuram",
+            "value": "Locality_9115"
+        },
+        {
+            "name": "Kondalampatti",
+            "value": "Locality_9116"
+        },
+        {
+            "name": "Attur Road",
+            "value": "Locality_9117"
+        },
+        {
+            "name": "Gugai",
+            "value": "Locality_9118"
+        },
+        {
+            "name": "Steel Plant",
+            "value": "Locality_9119"
+        }
+    ],
+    "Rohini": [
+        {
+            "name": "Sector 3",
+            "value": "Locality_9140"
+        },
+        {
+            "name": "Sector 5",
+            "value": "Locality_9141"
+        },
+        {
+            "name": "Sector 7",
+            "value": "Locality_9142"
+        },
+        {
+            "name": "Sector 8",
+            "value": "Locality_9143"
+        },
+        {
+            "name": "Sector 9",
+            "value": "Locality_9144"
+        },
+        {
+            "name": "Sector 11",
+            "value": "Locality_9145"
+        },
+        {
+            "name": "Sector 13",
+            "value": "Locality_9146"
+        },
+        {
+            "name": "Sector 15",
+            "value": "Locality_9147"
+        },
+        {
+            "name": "Sector 16",
+            "value": "Locality_9148"
+        },
+        {
+            "name": "Sector 24",
+            "value": "Locality_9149"
+        }
+    ],
+    "Saket": [
+        {
+            "name": "Saket J Block",
+            "value": "Locality_9150"
+        },
+        {
+            "name": "Saket G Block",
+            "value": "Locality_9151"
+        },
+        {
+            "name": "Saket Select City",
+            "value": "Locality_9152"
+        },
+        {
+            "name": "Malviya Nagar",
+            "value": "Locality_9153"
+        },
+        {
+            "name": "Saket M Block",
+            "value": "Locality_9154"
+        },
+        {
+            "name": "Press Enclave",
+            "value": "Locality_9155"
+        },
+        {
+            "name": "Saket A Block",
+            "value": "Locality_9156"
+        },
+        {
+            "name": "Neb Sarai",
+            "value": "Locality_9157"
+        },
+        {
+            "name": "Pushp Vihar",
+            "value": "Locality_9158"
+        },
+        {
+            "name": "Freedom Fighter Enclave",
+            "value": "Locality_9159"
+        }
+    ],
+    "Nizamabad": [
+        {
+            "name": "Pragati Nagar",
+            "value": "Locality_9180"
+        },
+        {
+            "name": "Kanteshwar",
+            "value": "Locality_9181"
+        },
+        {
+            "name": "Ngo Colony",
+            "value": "Locality_9182"
+        },
+        {
+            "name": "Varni Road",
+            "value": "Locality_9183"
+        },
+        {
+            "name": "Vinayak Nagar",
+            "value": "Locality_9184"
+        },
+        {
+            "name": "Subhash Nagar",
+            "value": "Locality_9185"
+        },
+        {
+            "name": "Nizamabad Rural",
+            "value": "Locality_9186"
+        },
+        {
+            "name": "Borgaon",
+            "value": "Locality_9187"
+        },
+        {
+            "name": "Gautam Nagar",
+            "value": "Locality_9188"
+        },
+        {
+            "name": "Kamareddy",
+            "value": "Locality_9189"
+        }
+    ],
+    "Karimnagar": [
+        {
+            "name": "Mukarampura",
+            "value": "Locality_9190"
+        },
+        {
+            "name": "Saptagiri Colony",
+            "value": "Locality_9191"
+        },
+        {
+            "name": "Kashmirgadda",
+            "value": "Locality_9192"
+        },
+        {
+            "name": "Vidya Nagar",
+            "value": "Locality_9193"
+        },
+        {
+            "name": "Jyothinagar",
+            "value": "Locality_9194"
+        },
+        {
+            "name": "Bhagatnagar",
+            "value": "Locality_9195"
+        },
+        {
+            "name": "Mankammathota",
+            "value": "Locality_9196"
+        },
+        {
+            "name": "Chinthakunta",
+            "value": "Locality_9197"
+        },
+        {
+            "name": "Vavilalapally",
+            "value": "Locality_9198"
+        },
+        {
+            "name": "Hussainipura",
+            "value": "Locality_9199"
+        }
+    ],
+    "Vadodara": [
+        {
+            "name": "Alkapuri",
+            "value": "Locality_9220"
+        },
+        {
+            "name": "Race Course",
+            "value": "Locality_9221"
+        },
+        {
+            "name": "Manjalpur",
+            "value": "Locality_9222"
+        },
+        {
+            "name": "Gotri",
+            "value": "Locality_9223"
+        },
+        {
+            "name": "Akota",
+            "value": "Locality_9224"
+        },
+        {
+            "name": "Karelibaug",
+            "value": "Locality_9225"
+        },
+        {
+            "name": "Fatehgunj",
+            "value": "Locality_9226"
+        },
+        {
+            "name": "Waghodia Road",
+            "value": "Locality_9227"
+        },
+        {
+            "name": "Sama",
+            "value": "Locality_9228"
+        },
+        {
+            "name": "Harni",
+            "value": "Locality_9229"
+        }
+    ],
+    "Rajkot": [
+        {
+            "name": "Kalawad Road",
+            "value": "Locality_9230"
+        },
+        {
+            "name": "University Road",
+            "value": "Locality_9231"
+        },
+        {
+            "name": "Yagnik Road",
+            "value": "Locality_9232"
+        },
+        {
+            "name": "150 Feet Ring Road",
+            "value": "Locality_9233"
+        },
+        {
+            "name": "Gondal Road",
+            "value": "Locality_9234"
+        },
+        {
+            "name": "Raiya Road",
+            "value": "Locality_9235"
+        },
+        {
+            "name": "Amin Marg",
+            "value": "Locality_9236"
+        },
+        {
+            "name": "Mavdi",
+            "value": "Locality_9237"
+        },
+        {
+            "name": "Kotecha Chowk",
+            "value": "Locality_9238"
+        },
+        {
+            "name": "Astron Chowk",
+            "value": "Locality_9239"
+        }
+    ],
+    "Udaipur": [
+        {
+            "name": "Fatehpura",
+            "value": "Locality_9250"
+        },
+        {
+            "name": "Hiran Magri",
+            "value": "Locality_9251"
+        },
+        {
+            "name": "Shobhagpura",
+            "value": "Locality_9252"
+        },
+        {
+            "name": "Sukhadia Circle",
+            "value": "Locality_9253"
+        },
+        {
+            "name": "Chetak Circle",
+            "value": "Locality_9254"
+        },
+        {
+            "name": "Ambamata",
+            "value": "Locality_9255"
+        },
+        {
+            "name": "Bhuwana",
+            "value": "Locality_9256"
+        },
+        {
+            "name": "Goverdhan Vilas",
+            "value": "Locality_9257"
+        },
+        {
+            "name": "Udaipur City",
+            "value": "Locality_9258"
+        },
+        {
+            "name": "Pratap Nagar",
+            "value": "Locality_9259"
+        }
+    ],
+    "Kota": [
+        {
+            "name": "Talwandi",
+            "value": "Locality_9270"
+        },
+        {
+            "name": "Mahaveer Nagar",
+            "value": "Locality_9271"
+        },
+        {
+            "name": "Dadabari",
+            "value": "Locality_9272"
+        },
+        {
+            "name": "Borkhera",
+            "value": "Locality_9273"
+        },
+        {
+            "name": "Kunhari",
+            "value": "Locality_9274"
+        },
+        {
+            "name": "Vigyan Nagar",
+            "value": "Locality_9275"
+        },
+        {
+            "name": "Gumanpura",
+            "value": "Locality_9276"
+        },
+        {
+            "name": "Nayapura",
+            "value": "Locality_9277"
+        },
+        {
+            "name": "Rangbari",
+            "value": "Locality_9278"
+        },
+        {
+            "name": "Rajiv Gandhi Nagar",
+            "value": "Locality_9279"
+        }
+    ],
+    "Ghaziabad": [
+        {
+            "name": "Indirapuram",
+            "value": "Locality_9300"
+        },
+        {
+            "name": "Vaishali",
+            "value": "Locality_9301"
+        },
+        {
+            "name": "Crossing Republik",
+            "value": "Locality_9302"
+        },
+        {
+            "name": "Raj Nagar Extension",
+            "value": "Locality_9303"
+        },
+        {
+            "name": "Kaushambi",
+            "value": "Locality_9304"
+        },
+        {
+            "name": "Vasundhara",
+            "value": "Locality_9305"
+        },
+        {
+            "name": "Shalimar Garden",
+            "value": "Locality_9306"
+        },
+        {
+            "name": "Loni",
+            "value": "Locality_9307"
+        },
+        {
+            "name": "Govindpuram",
+            "value": "Locality_9308"
+        },
+        {
+            "name": "Sahibabad",
+            "value": "Locality_9309"
+        }
+    ],
+    "Agra": [
+        {
+            "name": "Taj Nagari",
+            "value": "Locality_9310"
+        },
+        {
+            "name": "Kamla Nagar",
+            "value": "Locality_9311"
+        },
+        {
+            "name": "Sikandra",
+            "value": "Locality_9312"
+        },
+        {
+            "name": "Dayal Bagh",
+            "value": "Locality_9313"
+        },
+        {
+            "name": "Shahganj",
+            "value": "Locality_9314"
+        },
+        {
+            "name": "Khandari",
+            "value": "Locality_9315"
+        },
+        {
+            "name": "Sanjay Place",
+            "value": "Locality_9316"
+        },
+        {
+            "name": "Civil Lines",
+            "value": "Locality_9317"
+        },
+        {
+            "name": "Fatehabad Road",
+            "value": "Locality_9318"
+        },
+        {
+            "name": "Raja Mandi",
+            "value": "Locality_9319"
+        }
+    ],
+    "Howrah": [
+        {
+            "name": "Shibpur",
+            "value": "Locality_9330"
+        },
+        {
+            "name": "Belur",
+            "value": "Locality_9331"
+        },
+        {
+            "name": "Liluah",
+            "value": "Locality_9332"
+        },
+        {
+            "name": "Kadamtala",
+            "value": "Locality_9333"
+        },
+        {
+            "name": "Santragachi",
+            "value": "Locality_9334"
+        },
+        {
+            "name": "Bally",
+            "value": "Locality_9335"
+        },
+        {
+            "name": "Ramrajatala",
+            "value": "Locality_9336"
+        },
+        {
+            "name": "Golabari",
+            "value": "Locality_9337"
+        },
+        {
+            "name": "Dasnagar",
+            "value": "Locality_9338"
+        },
+        {
+            "name": "Andul",
+            "value": "Locality_9339"
+        }
+    ],
+    "Siliguri": [
+        {
+            "name": "Sevoke Road",
+            "value": "Locality_9350"
+        },
+        {
+            "name": "Hill Cart Road",
+            "value": "Locality_9351"
+        },
+        {
+            "name": "Pradhan Nagar",
+            "value": "Locality_9352"
+        },
+        {
+            "name": "Hakimpara",
+            "value": "Locality_9353"
+        },
+        {
+            "name": "Matigara",
+            "value": "Locality_9354"
+        },
+        {
+            "name": "Salugara",
+            "value": "Locality_9355"
+        },
+        {
+            "name": "Dagapur",
+            "value": "Locality_9356"
+        },
+        {
+            "name": "Bidhan Nagar",
+            "value": "Locality_9357"
+        },
+        {
+            "name": "Naxalbari",
+            "value": "Locality_9358"
+        },
+        {
+            "name": "Ashley Hall",
+            "value": "Locality_9359"
+        }
+    ],
+    "Calicut": [
+        {
+            "name": "Palayam",
+            "value": "Locality_9380"
+        },
+        {
+            "name": "Nadakkavu",
+            "value": "Locality_9381"
+        },
+        {
+            "name": "Mavoor Road",
+            "value": "Locality_9382"
+        },
+        {
+            "name": "Thondayad",
+            "value": "Locality_9383"
+        },
+        {
+            "name": "Beypore",
+            "value": "Locality_9384"
+        },
+        {
+            "name": "Pantheerankavu",
+            "value": "Locality_9385"
+        },
+        {
+            "name": "Meenchanda",
+            "value": "Locality_9386"
+        },
+        {
+            "name": "Mankavu",
+            "value": "Locality_9387"
+        },
+        {
+            "name": "Vellimadukunnu",
+            "value": "Locality_9388"
+        },
+        {
+            "name": "East Hill",
+            "value": "Locality_9389"
+        }
+    ],
+    "Thrissur": [
+        {
+            "name": "Swaraj Round",
+            "value": "Locality_9390"
+        },
+        {
+            "name": "Punkunnam",
+            "value": "Locality_9391"
+        },
+        {
+            "name": "Ayyanthole",
+            "value": "Locality_9392"
+        },
+        {
+            "name": "Ollur",
+            "value": "Locality_9393"
+        },
+        {
+            "name": "Mannuthy",
+            "value": "Locality_9394"
+        },
+        {
+            "name": "Peringavu",
+            "value": "Locality_9395"
+        },
+        {
+            "name": "Viyyur",
+            "value": "Locality_9396"
+        },
+        {
+            "name": "Kuttanellur",
+            "value": "Locality_9397"
+        },
+        {
+            "name": "Cheroor",
+            "value": "Locality_9398"
+        },
+        {
+            "name": "Poothole",
+            "value": "Locality_9399"
+        }
+    ]
+}
