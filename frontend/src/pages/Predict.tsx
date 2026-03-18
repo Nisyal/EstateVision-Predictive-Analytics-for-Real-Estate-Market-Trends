@@ -13,6 +13,7 @@ import {
   TrendingUp, TrendingDown, Factory
 } from "lucide-react";
 import localitiesData from "@/data/real_localities.json";
+import subLocalitiesData from "@/data/sub_localities.json";
 
 const states = [
   "Karnataka", "Maharashtra", "Tamil Nadu", "Delhi", "Telangana",
@@ -36,7 +37,9 @@ const propertyTypes = ["Apartment", "Villa", "Row House", "Independent House", "
 const furnishingOptions = ["Fully Furnished", "Semi Furnished", "Unfurnished"];
 const facingOptions = ["North", "South", "East", "West", "North-East", "North-West", "South-East", "South-West"];
 const ownerTypes = ["First Owner", "Second Owner", "Third Owner", "Resale"];
-const availabilityOptions = ["Ready to Move", "Under Construction"];
+const availabilityOptionsDefault = ["Ready to Move", "Under Construction"];
+const availabilityOptionsCurrentYear = ["Ready to Move", "Renovated"];
+const currentYear = new Date().getFullYear();
 const amenitiesList = [
   "Swimming Pool", "Gym", "Power Backup",
   "Elevator", "Garden", "Jogging Track", "CCTV", "Children Park",
@@ -45,6 +48,7 @@ const amenitiesList = [
 const accessibilityOptions = ["High", "Medium", "Low"];
 
 const localities: Record<string, { name: string, value: string }[]> = localitiesData;
+const subLocalities: Record<string, { name: string, multiplier: number }[]> = subLocalitiesData;
 
 export default function Predict() {
   const navigate = useNavigate();
@@ -53,6 +57,7 @@ export default function Predict() {
     State: "",
     City: "",
     Locality: "",
+    Sub_Locality: "",
     Property_Type: "",
     BHK: "2",
     Size_in_SqFt: "1200",
@@ -117,6 +122,7 @@ export default function Predict() {
         State: String(form.State),
         City: String(form.City),
         Locality: String(form.Locality),
+        Sub_Locality: String(form.Sub_Locality),
         Property_Type: String(form.Property_Type),
         BHK: String(form.BHK),
         Size_in_SqFt: String(form.Size_in_SqFt),
@@ -256,9 +262,16 @@ export default function Predict() {
                 </div>
                 <div className="space-y-2">
                   <Label className={labelClass}>Locality *</Label>
-                  <Select value={form.Locality} onValueChange={(v) => setForm({ ...form, Locality: v })} disabled={!form.City}>
+                  <Select value={form.Locality} onValueChange={(v) => setForm({ ...form, Locality: v, Sub_Locality: "" })} disabled={!form.City}>
                     <SelectTrigger className={inputClass}><SelectValue placeholder="Select locality..." /></SelectTrigger>
                     <SelectContent>{(localities[form.City] || []).map((l) => (<SelectItem key={l.value} value={l.value}>{l.name}</SelectItem>))}</SelectContent>
+                  </Select>
+                </div>
+                <div className="space-y-2">
+                  <Label className={labelClass}>Sub Locality</Label>
+                  <Select value={form.Sub_Locality} onValueChange={(v) => setForm({ ...form, Sub_Locality: v })} disabled={!form.Locality}>
+                    <SelectTrigger className={inputClass}><SelectValue placeholder="Select specific area..." /></SelectTrigger>
+                    <SelectContent>{(subLocalities[`${form.City}_${form.Locality}`] || []).map((sl) => (<SelectItem key={sl.name} value={sl.name}>{sl.name}</SelectItem>))}</SelectContent>
                   </Select>
                 </div>
                 <div className="space-y-2">
@@ -306,7 +319,16 @@ export default function Predict() {
                 </div>
                 <div className="space-y-2">
                   <Label className={labelClass}><Calendar className="w-4 h-4 text-indigo-500" /> Year Built</Label>
-                  <Input type="number" value={form.Year_Built} onChange={(e) => setForm({ ...form, Year_Built: e.target.value })} className={inputClass} />
+                  <Input type="number" min="1900" max={currentYear} value={form.Year_Built} onChange={(e) => {
+                    const val = e.target.value;
+                    setForm((prev) => ({
+                      ...prev,
+                      Year_Built: val,
+                      // Reset availability when year changes so stale values don't persist
+                      Availability_Status: "",
+                    }));
+                  }} className={inputClass} />
+
                 </div>
                 <div className="space-y-2">
                   <Label className={labelClass}>Age of Property (years)</Label>
@@ -352,8 +374,14 @@ export default function Predict() {
                   <Label className={labelClass}><Clock className="w-4 h-4 text-indigo-500" /> Availability *</Label>
                   <Select value={form.Availability_Status} onValueChange={(v) => setForm({ ...form, Availability_Status: v })}>
                     <SelectTrigger className={inputClass}><SelectValue placeholder="Select availability..." /></SelectTrigger>
-                    <SelectContent>{availabilityOptions.map((o) => (<SelectItem key={o} value={o}>{o}</SelectItem>))}</SelectContent>
+                    <SelectContent>
+                      {(form.Year_Built === String(currentYear)
+                        ? availabilityOptionsCurrentYear
+                        : availabilityOptionsDefault
+                      ).map((o) => (<SelectItem key={o} value={o}>{o}</SelectItem>))}
+                    </SelectContent>
                   </Select>
+
                 </div>
                 <div className="space-y-2">
                   <Label className={labelClass}><Bus className="w-4 h-4 text-indigo-500" /> Public Transport *</Label>

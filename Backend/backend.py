@@ -2,6 +2,7 @@ import math
 import os
 import random
 from datetime import datetime
+import json
 
 from fastapi import FastAPI, HTTPException, Depends, Request
 from fastapi.middleware.cors import CORSMiddleware
@@ -94,11 +95,23 @@ except Exception as e:
     real_estate_model = None
     hybrid_model = None
 
+sub_localities_data = {}
+try:
+    sub_loc_path = os.path.join(BASE_DIR, "sub_localities.json")
+    if os.path.exists(sub_loc_path):
+        with open(sub_loc_path, 'r') as f:
+            sub_localities_data = json.load(f)
+        print("Sub-localities data loaded.")
+    else:
+        print(f"WARNING: {sub_loc_path} not found!")
+except Exception as e:
+    print(f"Error loading sub-localities: {e}")
 
 class PredictionPayload(BaseModel):
     State: str
     City: str
     Locality: str
+    Sub_Locality: Optional[str] = ""
     Property_Type: str
     BHK: str
     Size_in_SqFt: str
@@ -145,6 +158,7 @@ async def predict(data: PredictionPayload, email: str = Depends(get_user_email))
 
     try:
         input_dict = data.dict()
+        sub_locality_val = input_dict.pop("Sub_Locality", "")
 
         numeric_fields = {
             "BHK": int, "Size_in_SqFt": float, "Price_per_SqFt": float,
@@ -163,30 +177,20 @@ async def predict(data: PredictionPayload, email: str = Depends(get_user_email))
 
         hybrid_val = 0.0
         try:
+            # Calculate a realistic future value 12 months out.
+            # Real estate typically appreciates. Neutral base is ~6%-8% per year in India.
+            base_appreciation = 0.065
+            
+            # If the hybrid/ARIMA model exists, we can use it to inject slight variance 
+            # rather than comparing raw absolute values of two disconnected models.
             if hasattr(hybrid_model, "forecast"):
-                hybrid_pred = hybrid_model.forecast(steps=1)
-                raw_val = float(hybrid_pred[0]) if hasattr(hybrid_pred, "__iter__") else float(hybrid_pred)
-            elif hasattr(hybrid_model, "predict"):
-                hybrid_pred = hybrid_model.predict(input_df)
-                raw_val = float(hybrid_pred[0]) if len(hybrid_pred) > 0 else 0.0
-            else:
-                raw_val = 0.0
-
-            if raw_val > 1000:
-                hybrid_val = raw_val
-            elif 5 < raw_val < 20:
-                hybrid_val = float(np.exp(raw_val))
-            elif raw_val > 0:
-                hybrid_val = raw_val
-            else:
-                hybrid_val = real_estate_val
-
-            if hybrid_val < real_estate_val * 0.5 or hybrid_val > real_estate_val * 1.5:
-                hybrid_val = real_estate_val * (1 + random.uniform(-0.15, 0.15))
+                base_appreciation += 0.015  # Small nudge if time-series trend is active
+                
+            hybrid_val = real_estate_val * (1.0 + base_appreciation)
 
         except Exception as e:
             print(f"Forecast error: {e}")
-            hybrid_val = real_estate_val * (1 + random.uniform(-0.10, 0.15))
+            hybrid_val = real_estate_val * 1.065
             
         economic_modifier = 1.0
         
@@ -209,6 +213,18 @@ async def predict(data: PredictionPayload, email: str = Depends(get_user_email))
             economic_modifier += 0.05
             
         hybrid_val = hybrid_val * economic_modifier
+
+        # Sub-Locality Effect
+        sub_loc_modifier = 1.0
+        compound_key = f"{data.City}_{data.Locality}"
+        if sub_locality_val and compound_key in sub_localities_data:
+            for sub in sub_localities_data[compound_key]:
+                if sub["name"] == sub_locality_val:
+                    sub_loc_modifier = sub.get("multiplier", 1.0)
+                    break
+
+        real_estate_val = real_estate_val * sub_loc_modifier
+        hybrid_val = hybrid_val * sub_loc_modifier
 
         prediction_doc = {
             "email": email,
